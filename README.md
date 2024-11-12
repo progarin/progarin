@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - Klabbelanja Application Check Here On Playstore https://play.google.com/store/apps/details?id=com.klabbelanja&pcampaignid=web_share<br>👯 I’m looking to collaborate on education company<br>🌱 I’m currently learning - .NET Development With C# Language<br>💬 Ask me about React Ecosystem
+🔭 I’m currently working on - Klabbelanja Application Check Here On Playstore & AppStore : <br> https://play.google.com/store/apps/details?id=com.klabbelanja&pcampaignid=web_share &  <br> https://apps.apple.com/id/app/klabbelanja/id6475075475<br>👯 I’m looking to collaborate on education company<br>🌱 I’m currently learning - .NET Development With C# Language<br>💬 Ask me about React Ecosystem
 
 
 ## 🌐 Socials:
