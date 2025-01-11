@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi, I am<br>Garin Ravindra<br>Mobile Apps & FrontEnd Web Developer<br>I am very enthusiastic in application development, especially website development, have skills for modern website development using React.Js & React Native technology, accustomed to using JavaScript & Typescript<br>I have 2 years experience in mobile application & website development
 
+## Personal Website
+www.garinravindra.com
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/niko_rgarin/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/garin-ravindra-8933a329a/) 
