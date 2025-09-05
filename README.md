@@ -2,7 +2,7 @@
 Hi, I am<br>Garin Ravindra<br>Mobile Apps & FrontEnd Web Developer<br>I am very enthusiastic in application development, especially website development, have skills for modern website development using React.Js & React Native technology, accustomed to using JavaScript & Typescript<br>I have 2 years experience in mobile application & website development
 
 ## Personal Website
-www.garinravindra.com
+https://garinravindra.com
 
 
 ## 🌐 Socials:
