@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img alt="Garin Ravindra — mobile & frontend developer" src="./assets/hero-light.svg" width="720">
+  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
+  <img alt="Garin Ravindra — mobile & frontend developer" src="hero-light.svg" width="720">
 </picture>
 
 I build mobile apps and web interfaces that feel quiet, fast, and easy to use.
